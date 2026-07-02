@@ -1,0 +1,27 @@
+.label {
+  color: rgb(121, 120, 120);
+}
+
+p { 
+  font-family: Arial;
+}
+
+.search-bar {
+  padding: 6px 100px;
+  border-style: solid;
+}
+
+.para {
+  color: gray;
+  font-size: 15px;
+}
+
+.join-button {
+  background-color: rgb(12, 92, 183);
+  color: white;
+  padding: 16px 133px;
+  border: none;
+  border-radius: 30px;
+  font-size: 17px;
+  cursor: pointer;
+}

@@ -1,0 +1,33 @@
+.google {
+  text-align: center;
+  font-family: product-sans, arial, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.letter-1 {
+  color: rgb(17, 94, 216);
+}
+
+.letter-2 {
+  color: rgb(203, 18, 18);
+}
+
+.letter-3 {
+  color: rgb(236, 192, 14);
+}
+.letter-4 {
+  color: rgb(34, 169, 34);
+}
+
+.search-bar {
+  padding-right: 0px;
+  width: 500px;
+  padding-top: 8px;
+  padding-left:  8px;
+  padding-bottom: 8px;
+  border: none;
+  box-shadow: 0.4px 0.5px 2px rgba(0, 0, 0, 0.4);
+  border-radius: 250px;
+  margin-left: 170px;
+}
