@@ -1,0 +1,27 @@
+.box-1 {
+  display: inline-block;
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.box-2 {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.button-1 {
+  width: 255px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(43, 105, 230);
+  color: white;
+  font-weight: bold;
+}

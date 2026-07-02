@@ -1,0 +1,36 @@
+.text {
+  font-size: 25px;
+  
+}
+
+.pickup {
+  display: block;
+  width: 300px;
+  margin-bottom: 10px;
+  border: none;
+  background-color: rgb(239, 238, 238);
+  height: 40px;
+}
+
+.dropoff {
+  display: block;
+  width: 300px;
+  margin-bottom: 10px;
+  border: none;
+  background-color: rgb(239, 238, 238);
+  height: 40px;
+}
+
+.request {
+  padding: 8px 20px;
+  background-color: black;
+  color: white;
+  margin-right: 20px;
+}
+
+.later {
+  padding: 10px 20px;
+  background-color: rgb(239, 238, 238);
+  color: black;
+  border: none;
+}
