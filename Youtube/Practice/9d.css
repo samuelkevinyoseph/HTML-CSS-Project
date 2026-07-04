@@ -1,0 +1,19 @@
+.four {
+  background-color: rgb(37, 36, 36);
+  color: white;
+  width: 330px;
+  padding-left: 10px;
+  padding-bottom: 8px;
+  font-family: Arial;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 15px;
+}
+
+.description {
+  font-size: 14px;
+  margin-top: 5px;
+}

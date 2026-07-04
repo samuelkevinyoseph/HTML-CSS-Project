@@ -3,6 +3,8 @@
   font-family: product-sans, arial, sans-serif;
   font-size: 40px;
   font-weight: bold;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .letter-1 {
@@ -29,5 +31,23 @@
   border: none;
   box-shadow: 0.4px 0.5px 2px rgba(0, 0, 0, 0.4);
   border-radius: 250px;
-  margin-left: 170px;
+  margin-left: 130px;
+}
+
+.gsearch {
+  display: inline-block;
+  margin-left: 230px;
+  font-family: Arial;
+  background-color: rgb(240, 237, 237);
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.lucky-feel {
+  display: inline-block;
+  margin-left: 10px;
+  font-family: Arial;
+  background-color: rgb(240, 237, 237);;
+  padding: 10px 16px;
+  cursor: pointer;
 }
